@@ -60,7 +60,7 @@ li img{
   gap: 10px;
 }
 .header{
- background-image: url(./back-pic.png);
+ background-image: url(/back-pic.png);
     /* height: 700px; */
     background-repeat: no-repeat;
     font-family: sans-serif;
