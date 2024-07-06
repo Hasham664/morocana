@@ -681,7 +681,7 @@ ul{
 }
 .header {
   background-size: contain;
-    background-image: url(./back-pic2.png);
+    background-image: url(/back-pic2.png);
     /* height: 700px; */
     padding-bottom: 0px;
     width: 100%;
