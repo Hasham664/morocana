@@ -300,7 +300,7 @@ ul a{
   text-align: center;
   background-color: #EFC385;
   position: absolute;
-    left: 50px;
+    left: 0px;
     right: 0px;
     top: 51px;
     width: 100%;
@@ -321,7 +321,7 @@ ul a{
 
 .illustrator-pic{
   margin-top: 200px;
-  background-image: url(./illustrator.png);
+  background-image: url(/illustrator.png);
   background-repeat: no-repeat;
   height: 552px;
   background-size: cover;
@@ -528,7 +528,7 @@ ul a{
   margin-top: 100px;
 }
 .xtrem-pic{
-  background-image: url(./Xtrem-pic.png);
+  background-image: url(/Xtrem-pic.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
