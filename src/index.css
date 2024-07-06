@@ -648,7 +648,6 @@ ul{
   font-size: 37px;
 }
 }
-@media all and (max-width:390px){}
 @media all and (max-width:450px){
 .sidebar{
   width: 100%;
@@ -657,6 +656,9 @@ ul{
   margin-top: 40px;
   height: 0px !important;
 }
+.header {
+    padding-bottom: 10px !important;
+  }
 .xtrem-text {
         padding: 20px 20px;
     }
@@ -668,9 +670,7 @@ ul{
   .dilivery{
     padding: 10px 15px;
   }
-  .header {
-    padding-bottom: 10px !important;
-  }
+  
   
   .grid-header {
     grid-template-columns: 100%;
