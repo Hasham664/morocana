@@ -667,7 +667,9 @@ ul{
   .dilivery{
     padding: 10px 15px;
   }
-  
+  .header {
+    padding-bottom: 10px;
+  }
   
   .grid-header {
     grid-template-columns: 100%;
@@ -683,7 +685,7 @@ ul{
   background-size: contain;
     background-image: url(/back-pic2.png);
     /* height: 700px; */
-    padding-bottom: 0px;
+    padding-bottom: 200px;
     width: 100%;
     /* background-position: center; */
 }
